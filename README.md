@@ -15,7 +15,8 @@ ISO/IEC/IEEE 29148:2018 Systems and software engineering — Life cycle processe
 
 https://www.cybermedian.com/ru/a-comprehensive-guide-to-uml-class-diagram/
 
-В этой призентации, в конце есть диограмма для 'Задания 1'
+В этой призентации, в конце есть диограмма для Задания 1:
+
 https://docs.google.com/presentation/d/1d-ReTu3A_944hmccTxqbUrRNMHtIDViiCMKvUUaKu24/edit?pli=1#slide=id.g161fe117232_1_7
 
 ### Задание 3. (На выбор 1 или 3 задание )
